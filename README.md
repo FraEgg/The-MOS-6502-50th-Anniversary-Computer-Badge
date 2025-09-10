@@ -7,6 +7,8 @@ Basierend auf einer Idee von **Lee Hart, Daryl Rictor und Josh Bensadon**, neu a
 
 Ein großes Dankeschön geht an die ursprünglichen Entwickler für ihre Pionierarbeit – und besonders an **Lee Hart** für viele hilfreiche Tipps während der Überarbeitung. 🙏
 
+[![Watch the video](https://i9.ytimg.com/vi/MOvFbZeAMVU/sddefault.jpg?sqp=CMS4h8YG-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChUMA8=&rs=AOn4CLDRbxIAH3L7DD3zBgm8SSsLZ4LPzQ)](https://youtu.be/MOvFbZeAMVU)
+
 ---
 
 ## 🎂 50 Jahre MOS 6502
@@ -79,9 +81,7 @@ Highlights:
 
 ---
 
-## 🖥️ So sieht es in Aktion aus
-
-[![Watch the video](https://i9.ytimg.com/vi/MOvFbZeAMVU/sddefault.jpg?sqp=CMS4h8YG-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChUMA8=&rs=AOn4CLDRbxIAH3L7DD3zBgm8SSsLZ4LPzQ)](https://youtu.be/MOvFbZeAMVU)
+Mehr in Kürze !
 
 
 ---
