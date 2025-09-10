@@ -1,6 +1,6 @@
 # MOS 6502 – 50th Anniversary Computer Badge (1975–2025)
 
-## Ein Retro-Computer im Taschenformat für 8-Bit-Fans 🎉
+## Ein Retro-Computer im Badge-Format für 8-Bit-Fans 🎉
 
 Basierend auf einer Idee von **Lee Hart, Daryl Rictor und Josh Bensadon**, neu aufgelegt und modernisiert.
 👉 Originalprojekt: [sunrise-ev.com/6502.htm](http://www.sunrise-ev.com/6502.htm)
