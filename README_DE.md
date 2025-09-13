@@ -4,7 +4,9 @@
 
 Von Frank Eggen
 
-[![Video ansehen](https://i9.ytimg.com/vi/MOvFbZeAMVU/sddefault.jpg?sqp=CMS4h8YG-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChUMA8=\&rs=AOn4CLDRbxIAH3L7DD3zBgm8SSsLZ4LPzQ)](https://youtu.be/MOvFbZeAMVU)
+👉 [English Version](README.md)
+
+[<img src="images/Youtube.jpg" title="Schaue Video auf YouTube" alt="Schaue Video auf YouTube" style="zoom:50%;">](https://youtu.be/MOvFbZeAMVU)
 
 ---
 
