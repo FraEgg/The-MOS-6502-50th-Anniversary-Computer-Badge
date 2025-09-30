@@ -1,32 +1,32 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"BT1","1","BatteryHolder","Nicht bestücken","","","MyLibrary:BatteryHolder_Keystone_3xAA","https://www.digikey.com/en/products/detail/keystone-electronics/106/27386"
-"BT2","1","Battery Cell","","","","Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles","https://www.digikey.com/en/products/detail/keystone-electronics/2464/303813"
-"C1,C4,C5,C6,C7,C8","6","0.1uF","","","","Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm","https://www.digikey.com/en/products/detail/kemet/C322C104M5U5TA/818107"
-"C2,C3","2","470uf","","","","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm","https://www.digikey.com/en/products/detail/rubycon/16ZLH470MEFC8X11-5/3563382"
-"D1,D2,D3","3","1N5817","","","","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5817/21705460"
-"J1","1","5V DC-DC StepUp","","","","MyLibrary:Converter_DCDC_STepUp5V10.5x11_THT","https://de.aliexpress.com/item/1005005624977910.html"
-"J2","1","CH340N SOP8 USB to TTL","Nicht bestücken","","","MyLibrary:CH340N SOP8 USB-zu-TTL-Modul","https://de.aliexpress.com/item/1005009386863437.html"
-"J3","1","Connector","Nicht bestücken","","","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","~"
-"JP1","1","*WD/MOS","","Von Bauteilliste ausgeschlossen","","Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm","~"
-"JP2","1","Charging","","Von Bauteilliste ausgeschlossen","","Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm","~"
-"LED1,LED7","2","WHITE","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/seoul-semiconductor-inc/LW520AS/2770221"
-"LED2","1","RED","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B5134/20506048"
-"LED3","1","ORANGE","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/rohm-semiconductor/SLR-56DUT32/2337242"
-"LED4","1","YELLOW","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B3134/20506076"
-"LED5","1","GREEN","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B2134/20505921"
-"LED6","1","BLUE","","","","LED_THT:LED_D5.0mm","https://www.digikey.de/en/products/detail/lumimax-optoelectronic-technology/LED5BLU-D/25881229"
-"LED8","1","Power","","","","LED_THT:LED_D3.0mm","https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B5134/20506048"
-"R1,R6","2","10K","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FAD10K0/1683413"
-"R2,R3,R4","3","3K3","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC3K30/2617342"
-"R5","1","56R","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC56R0/2617362"
-"R7","1","2K","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC2K00/1683937"
-"SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7","7","SC39-11EWA","","","","Display_7Segment:Sx39-1xxxxx","https://www.digikey.de/en/products/detail/kingbright/SC39-11EWA/3084564,~"
-"SW1","1","Reset","","","","Button_Switch_THT:SW_PUSH_6mm_H4.3mm","https://www.digikey.com/en/products/detail/apem-inc/MJTP1230/1798037"
-"SW2","1","On/Off","","","","Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile","https://www2.mouser.com/ProductDetail/Wurth-Elektronik/418127270901?qs=wr8lucFkNMUHAgaqq%2FoMmA%3D%3D"
-"U1","1","27C256 (Socket)","","","","Package_DIP:DIP-28_W15.24mm","https://www.digikey.com/en/products/detail/microchip-technology/AT27C256R-70PC/304743"
-"U2","1","W65C02S (Socket)","","","","Package_DIP:DIP-40_W15.24mm_Socket","https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf"
-"U3","1","74HC139","","","","Package_SO:SOP-16_4.4x10.4mm_P1.27mm","https://www.digikey.com/en/products/detail/nexperia-usa-inc/74AHC139PW-Q100J/4020140"
-"U4","1","CY62256N","","","","Package_SO:SOP-28_8.4x18.16mm_P1.27mm","https://www.digikey.com/en/products/detail/rochester-electronics-llc/CY62256NLL-70ZC/12099783"
-"U5","1","MAX690xPA","","","","Package_DIP:DIP-8_W7.62mm","https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX694CPA/948163"
-"U6,U7","2","74HC273","","","","Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm","https://www.digikey.de/en/products/detail/toshiba-semiconductor-and-storage/74HC273D/6198939"
-"X1","1","2MHz","","","","Oscillator:Oscillator_DIP-14","https://www.digikey.com/en/products/detail/cts-frequency-controls/MXO45-3C-2M000000/1801885"
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+BT1,1,BatteryHolder,Nicht bestücken,,,MyLibrary:BatteryHolder_Keystone_3xAA,https://www.digikey.com/en/products/detail/keystone-electronics/2464/303813
+BT2,1,Battery Cell,,,,Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles,https://www.digikey.com/en/products/detail/keystone-electronics/106/27386
+"C1,C4,C5,C6,C7,C8",6,0.1uF,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,https://www.digikey.com/en/products/detail/kemet/C322C104M5U5TA/818107
+"C2,C3",2,470uf,,,,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,https://www.digikey.com/en/products/detail/rubycon/16ZLH470MEFC8X11-5/3563382
+"D1,D2,D3",3,1N5817,,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5817/21705460
+J1,1,5V DC-DC StepUp,,,,MyLibrary:Converter_DCDC_STepUp5V10.5x11_THT,https://de.aliexpress.com/item/1005005624977910.html
+J2,1,CH340N SOP8 USB to TTL,Nicht bestücken,,,MyLibrary:CH340N SOP8 USB-zu-TTL-Modul,https://de.aliexpress.com/item/1005009386863437.html
+J3,1,Connector,Nicht bestücken,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~
+JP1,1,*WD/MOS,,Von Bauteilliste ausgeschlossen,,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~
+JP2,1,Charging,,Von Bauteilliste ausgeschlossen,,Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,~
+"LED1,LED7",2,WHITE,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/seoul-semiconductor-inc/LW520AS/2770221
+LED2,1,RED,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B5134/20506048
+LED3,1,ORANGE,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/rohm-semiconductor/SLR-56DUT32/2337242
+LED4,1,YELLOW,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B3134/20506076
+LED5,1,GREEN,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B2134/20505921
+LED6,1,BLUE,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/lumimax-optoelectronic-technology/LED5BLU-D/25881229
+LED8,1,Power,,,,LED_THT:LED_D3.0mm,https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B5134/20506048
+"R1,R6",2,10K,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FAD10K0/1683413
+"R2,R3,R4",3,3K3,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC3K30/2617342
+R5,1,56R,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC56R0/2617362
+R7,1,2K,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC2K00/1683937
+"SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7",7,SC39-11EWA,,,,Display_7Segment:Sx39-1xxxxx,"https://www.digikey.de/en/products/detail/kingbright/SC39-11EWA/3084564,~"
+SW1,1,Reset,,,,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,https://www.digikey.com/en/products/detail/apem-inc/MJTP1230/1798037
+SW2,1,On/Off,,,,Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile,https://www2.mouser.com/ProductDetail/Wurth-Elektronik/418127270901?qs=wr8lucFkNMUHAgaqq%2FoMmA%3D%3D
+U1,1,27C256 (Socket),,,,Package_DIP:DIP-28_W15.24mm,https://www.digikey.com/en/products/detail/microchip-technology/AT27C256R-70PC/304743
+U2,1,W65C02S (Socket),,,,Package_DIP:DIP-40_W15.24mm_Socket,https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf
+U3,1,74HC139,,,,Package_SO:SOP-16_4.4x10.4mm_P1.27mm,https://www.digikey.com/en/products/detail/nexperia-usa-inc/74AHC139PW-Q100J/4020140
+U4,1,CY62256N,,,,Package_SO:SOP-28_8.4x18.16mm_P1.27mm,https://www.digikey.com/en/products/detail/rochester-electronics-llc/CY62256NLL-70ZC/12099783
+U5,1,MAX690xPA,,,,Package_DIP:DIP-8_W7.62mm,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX694CPA/948163
+"U6,U7",2,74HC273,,,,Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm,https://www.digikey.de/en/products/detail/toshiba-semiconductor-and-storage/74HC273D/6198939
+X1,1,2MHz,,,,Oscillator:Oscillator_DIP-14,https://www.digikey.com/en/products/detail/cts-frequency-controls/MXO45-3C-2M000000/1801885
