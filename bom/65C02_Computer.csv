@@ -1,14 +1,14 @@
 Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
-BT1,1,BatteryHolder,Nicht bestücken,,,MyLibrary:BatteryHolder_Keystone_3xAA,https://www.digikey.com/en/products/detail/keystone-electronics/2464/303813
+BT1,1,BatteryHolder,,,,MyLibrary:BatteryHolder_Keystone_3xAA,https://www.digikey.com/en/products/detail/keystone-electronics/2464/303813
 BT2,1,Battery Cell,,,,Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles,https://www.digikey.com/en/products/detail/keystone-electronics/106/27386
 "C1,C4,C5,C6,C7,C8",6,0.1uF,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,https://www.digikey.com/en/products/detail/kemet/C322C104M5U5TA/818107
 "C2,C3",2,470uf,,,,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,https://www.digikey.com/en/products/detail/rubycon/16ZLH470MEFC8X11-5/3563382
-"D1,D2,D3",3,1N5817,,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5817/21705460
+D1,3,1N5817,Jumper D2-D3 with wire / D2-D3 mit Draht überbrücken,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5817/21705460
 J1,1,5V DC-DC StepUp,,,,MyLibrary:Converter_DCDC_STepUp5V10.5x11_THT,https://de.aliexpress.com/item/1005005624977910.html
-J2,1,CH340N SOP8 USB to TTL,Nicht bestücken,,,MyLibrary:CH340N SOP8 USB-zu-TTL-Modul,https://de.aliexpress.com/item/1005009386863437.html
-J3,1,Connector,Nicht bestücken,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~
-JP1,1,*WD/MOS,,Von Bauteilliste ausgeschlossen,,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~
-JP2,1,Charging,,Von Bauteilliste ausgeschlossen,,Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,~
+J2,1,CH340N SOP8 USB to TTL,,,,MyLibrary:CH340N SOP8 USB-zu-TTL-Modul,https://de.aliexpress.com/item/1005009386863437.html
+J3,1,Connector,,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~
+JP1,1,*WD/MOS,,,,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~
+JP2,1,Charging,,,,Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,~
 "LED1,LED7",2,WHITE,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/seoul-semiconductor-inc/LW520AS/2770221
 LED2,1,RED,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/american-bright-optoelectronics-corporation/BL-B5134/20506048
 LED3,1,ORANGE,,,,LED_THT:LED_D5.0mm,https://www.digikey.de/en/products/detail/rohm-semiconductor/SLR-56DUT32/2337242

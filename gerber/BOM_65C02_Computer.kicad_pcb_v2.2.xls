@@ -1,0 +1,30 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+BT1,1,BatteryHolder,BatteryHolder_Keystone_3xAA,,,Yes,tht,BATTERY HOLDER COIN 20MM PC PIN,
+BT2,1,Battery Cell,Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles,,,,tht,BATTERY HOLDER AA 3 CELL PC PIN,
+"C1, C4, C5, C6, C7, C8",6,0.1uF,C_Disc_D4.7mm_W2.5mm_P5.00mm,,,,tht,CAP CER 0.1UF 50V Z5U RADIAL,
+"C2, C3",2,470uf,CP_Radial_D8.0mm_P3.50mm,,,,tht,1000 µF 10 V Aluminum Electrolytic Capacitors Radial,
+D1,1,1N5817,D_DO-41_SOD81_P10.16mm_Horizontal,,,,tht,"20V 1A Schottky Barrier Rectifier Diode, DO-41",
+J1,1,5V DC-DC StepUp,Converter_DCDC_STepUp5V10.5x11_THT,,,,tht,0.9-5V To 5V DC-DC Step-Up Power Module Voltage Boost Converter Board,
+J2,1,CH340N SOP8 USB to TTL,CH340N SOP8 USB-zu-TTL-Modul,,,Yes,tht,CH340N SOP8 USB to TTL module Pro Mini,
+J3,1,Connector,PinHeader_1x05_P2.54mm_Vertical,,,Yes,tht,"Generic connector, single row, 01x05, script generated",
+"LED1, LED7",2,WHITE,LED_D5.0mm,,,,tht,White LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED2,1,RED,LED_D5.0mm,,,,tht,Red LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED3,1,ORANGE,LED_D5.0mm,,,,tht,Orange LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED4,1,YELLOW,LED_D5.0mm,,,,tht,Yellow LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED5,1,GREEN,LED_D5.0mm,,,,tht,Green LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED6,1,BLUE,LED_D5.0mm,,,,tht,Blue LED Indication - Discrete 2.3V Radial,1=K 2=A
+LED8,1,Power,LED_D3.0mm,,,,tht,Red LED Indication - Discrete 2.3V Radial,1=K 2=A
+"R1, R6",2,10K,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,"Resistor, small symbol",
+"R2, R3, R4",3,3K3,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,,
+R5,1,56R,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,,
+R7,1,2K,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,,
+"SEG1, SEG2, SEG3, SEG4, SEG5, SEG6, SEG7",7,SC39-11EWA,Sx39-1xxxxx,,,,tht,"Single digit 7 segment display, high efficiency red, common cathode",
+SW1,1,Reset,SW_PUSH_6mm_H4.3mm,,,,tht,SWITCH TACTILE SPST-NO 0.05A 12V,
+SW2,1,On/Off,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile,,,,tht,DIP Switches / SIP Switches WS-DITV 1p 2.54 mm Pitch Horizontal IC Type THT,
+U1,1,27C256 (Socket),DIP-28_W15.24mm,,,,tht,EPROM 256 KiBit (Socket),
+U2,1,W65C02S (Socket),DIP-40_W15.24mm_Socket,,,,tht,W65C02S 8–bit Microprocessor,
+U3,1,74HC139,SOP-16_4.4x10.4mm_P1.27mm,,,,smt,Dual 2-to-4 line decoder/demultiplexer,
+U4,1,CY62256N,SOP-28_8.4x18.16mm_P1.27mm,,,,smt,256-Kbit (32 K × 8) Static RAM,
+U5,1,MAX690xPA,DIP-8_W7.62mm,,,,tht,IC SUPERVISOR 1 CHANNEL 8DIP,
+"U6, U7",2,74HC273,SOIC-20W_7.5x12.8mm_P1.27mm,,,,smt,IC FF D-TYPE SINGLE 8BIT 20SOIC,
+X1,1,2MHz,Oscillator_DIP-14,,,,tht,XTAL OSC XO 2.0000MHZ HCMOS TTL,
