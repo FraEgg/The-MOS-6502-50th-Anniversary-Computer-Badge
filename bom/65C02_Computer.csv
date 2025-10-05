@@ -27,6 +27,6 @@ U1,1,27C256 (Socket),,,,Package_DIP:DIP-28_W15.24mm,https://www.digikey.com/en/p
 U2,1,W65C02S (Socket),,,,Package_DIP:DIP-40_W15.24mm_Socket,https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf
 U3,1,74HC139,,,,Package_SO:SOP-16_4.4x10.4mm_P1.27mm,https://www.digikey.com/en/products/detail/nexperia-usa-inc/74AHC139PW-Q100J/4020140
 U4,1,CY62256N,,,,Package_SO:SOP-28_8.4x18.16mm_P1.27mm,https://www.digikey.com/en/products/detail/rochester-electronics-llc/CY62256NLL-70ZC/12099783
-U5,1,MAX690xPA,,,,Package_DIP:DIP-8_W7.62mm,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX694CPA/948163
+U5,1,MAX690xPA,alternatively MAX692xPA,,,Package_DIP:DIP-8_W7.62mm,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX694CPA/948163
 "U6,U7",2,74HC273,,,,Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm,https://www.digikey.de/en/products/detail/toshiba-semiconductor-and-storage/74HC273D/6198939
 X1,1,2MHz,,,,Oscillator:Oscillator_DIP-14,https://www.digikey.com/en/products/detail/cts-frequency-controls/MXO45-3C-2M000000/1801885
