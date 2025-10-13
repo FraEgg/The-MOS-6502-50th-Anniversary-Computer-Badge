@@ -765,6 +765,7 @@ Except for EhBASIC, software by **Daryl Rictor**. Use/adapt for **non‑commerci
 ## Downloads / Firmware / Manuals
 
 1. Custom **BadgeOS firmware** 32 KB 27C256 EPROM U1 (7× LEDs, 50th version) > [here](downloads/BadgeOS_32k_50th.rom) < (BIN, 32 KB)
+2. Badge-Manual (50th Version english) > [hier](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/downloads/Maunal_50th_EN_2.2.pdf) < als PDF 2.6MB
 2. Original **BadgeOS (firmware/ROM)** > [here](downloads/BadgeOS.zip) < (ZIP, 0.8 MB)
 3. Original **Badge Manual** by **Lee Hart, Daryl Rictor, and Josh Bensadon** > [here](downloads/badge-manual.pdf) < (PDF, 1.6 MB)
 4. Original **EhBASIC** manual > [here](downloads/EhBASIC-manual.pdf) < (PDF, 0.5 MB)

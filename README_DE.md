@@ -507,14 +507,15 @@ Mit Ausnahme von EhBASIC stammt die Software von **Daryl Rictor**. Nutzung und A
 ## Downloads/Firmware/Manuals
 
 1. Angepasste Firmware (32 KB, 27C256, **7× LEDs**) → [downloads/BadgeOS_32k_50th.rom](downloads/BadgeOS_32k_50th.rom) (BIN, 32 KB)
-2. Original **BadgeOS (Firmware/ROM)** → [downloads/BadgeOS.zip](downloads/BadgeOS.zip) (ZIP, ~0,8 MB)
-3. **Badge Manual** (Lee Hart, Daryl Rictor, Josh Bensadon) → [downloads/badge-manual.pdf](downloads/badge-manual.pdf) (PDF, ~1,6 MB)
-4. **EhBASIC Manual** → [downloads/EhBASIC-manual.pdf](downloads/EhBASIC-manual.pdf) (PDF, ~0,5 MB)
-5. **Schaltplan** → [downloads/Schematic.pdf](downloads/Schematic.pdf) (PDF, ~0,2 MB)
-6. **Platinenlayout (Gerber)** → [gerber/](gerber/)
-7. **BOM‑Dateien** → [bom/](bom/)  
-8. Treiber für **CH340 USB‑C ↔ TTL** → <https://www.arduined.eu/tag/ch340/>
-9. Weitere Downloads → [downloads/](downloads/)
+2. Badge-Manual (50th Version deutsch) > [hier](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/downloads/Maunal_50th_DE_2.2.pdf) < als PDF 2.6MB
+3. Original **BadgeOS (Firmware/ROM)** → [downloads/BadgeOS.zip](downloads/BadgeOS.zip) (ZIP, ~0,8 MB)
+4. **Badge Manual** (Lee Hart, Daryl Rictor, Josh Bensadon) → [downloads/badge-manual.pdf](downloads/badge-manual.pdf) (PDF, ~1,6 MB)
+5. **EhBASIC Manual** → [downloads/EhBASIC-manual.pdf](downloads/EhBASIC-manual.pdf) (PDF, ~0,5 MB)
+6. **Schaltplan** → [downloads/Schematic.pdf](downloads/Schematic.pdf) (PDF, ~0,2 MB)
+7. **Platinenlayout (Gerber)** → [gerber/](gerber/)
+8. **BOM‑Dateien** → [bom/](bom/)  
+9. Treiber für **CH340 USB‑C ↔ TTL** → <https://www.arduined.eu/tag/ch340/>
+10. Weitere Downloads → [downloads/](downloads/)
 
 ---
 
