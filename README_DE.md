@@ -507,7 +507,7 @@ Mit Ausnahme von EhBASIC stammt die Software von **Daryl Rictor**. Nutzung und A
 ## Downloads/Firmware/Manuals
 
 1. Angepasste Firmware (32 KB, 27C256, **7× LEDs**) → [downloads/BadgeOS_32k_50th.rom](downloads/BadgeOS_32k_50th.rom) (BIN, 32 KB)
-2. Badge-Manual (50th Version deutsch) > [hier](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/blob/2.2/downloads/Manual_50th_DE_2.2.pdf) < als PDF 2.6MB
+2. Badge-Manual (50th Version deutsch) > [hier](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/blob/2.2/downloads/Manual_50th_DE_2.2.pdf) < (PDF, 2.6MB)
 3. Original **BadgeOS (Firmware/ROM)** → [downloads/BadgeOS.zip](downloads/BadgeOS.zip) (ZIP, ~0,8 MB)
 4. **Badge Manual** (Lee Hart, Daryl Rictor, Josh Bensadon) → [downloads/badge-manual.pdf](downloads/badge-manual.pdf) (PDF, ~1,6 MB)
 5. **EhBASIC Manual** → [downloads/EhBASIC-manual.pdf](downloads/EhBASIC-manual.pdf) (PDF, ~0,5 MB)
