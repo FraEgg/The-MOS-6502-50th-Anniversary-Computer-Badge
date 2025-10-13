@@ -752,7 +752,7 @@ Mit Ausnahme von EhBASIC stammt die Software von **Daryl Rictor**. Nutzung und A
 
 ## Bestellung
 
-In Kürze werde ich das Projekt bei **pcbway.com** als **Shared Project** allen zur Verfügung stellen.
+Bestellung bei **pcbway.com** als **Shared Project** für PCB + Zusammenbau > [Link](https://www.pcbway.com/project/shareproject/The_MOS_6502_50th_Anniversary_Computer_Badge_1975_2025_439a8755.html) <.
 
 ---
 
