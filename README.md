@@ -426,8 +426,8 @@ Use a 6502 Macro Assembler (e.g., the simulator `6502.exe`):
 ## Downloads/Firmware/Manuals
 
 1. **Firmware (50th Edition):** [BadgeOS_32k_50th.rom](downloads/BadgeOS_32k_50th.rom) (BIN 32KB, supports 7 LEDs)
-2. **Manual (German):** [Manual_50th_DE_2.6.pdf](downloads/Manual_50th_DE_2.6.pdf)
-3. **Manual (English):** [Manual_50th_EN_2.6.pdf](downloads/Manual_50th_EN_2.6.pdf)
+2. **Manual (German):** [Manual_50th_DE_2.6.pdf](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/blob/2.6/downloads/Maunal_50th_DE_2.6.pdf)
+3. **Manual (English):** [Manual_50th_EN_2.6.pdf](https://github.com/FraEgg/The-MOS-6502-50th-Anniversary-Computer-Badge/blob/2.6/downloads/Manual_50th_EN_2.6.pdf)
 4. **Original Firmware:** [BadgeOS.zip](downloads/BadgeOS.zip) (only 5 LEDs)
 5. **Schematic:** [Schematic_v2.6.pdf](downloads/Schematic_v2.6.pdf)
 6. **Gerber Files:** [PCB Layout](gerber/)
